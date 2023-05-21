@@ -3,11 +3,6 @@
 
 ## installation 
 
-<ul>
+   * $ git clone https://github.com/monacodev/add_numbers.git 
 
-    <li> $ git clone https://github.com/monacodev/add_numbers.git </li>
-
-    <li> $ cd add_numbers/ </li>
-    
-</ul> 
-
+   * $ cd add_numbers/
